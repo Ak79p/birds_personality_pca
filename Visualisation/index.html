@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PCA Visualization</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="black-background">
+        <div id="side-menu" class="side-menu">
+            <span class="close-btn" onclick="toggleMenu()">☰</span>
+            <h2>PCA Plots</h2>
+            <ul>
+                <li><a href="#" onclick="showPlot('plot1')">PCA Plot 1</a></li>
+                <li><a href="#" onclick="showPlot('plot2')">PCA Plot 2</a></li>
+                <li><a href="#" onclick="showPlot('plot3')">PCA Plot 3</a></li>
+            </ul>
+        </div>
+
+        <div class="plot-container">
+            <div id="plot1" class="plot" style="display: block;"></div>
+            <div id="plot2" class="plot" style="display: none;"></div>
+            <div id="plot3" class="plot" style="display: none;"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
