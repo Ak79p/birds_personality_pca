@@ -50,5 +50,9 @@ Clusters did not particularly match the predefined personality types (Angry Bird
 Instead, PCA provided insight into the separation of clusters by visually emphasizing groupings based on behavioral traits rather than personality, suggesting that individuals with high neophilia tended to cluster separately from those exhibiting high aggression. PC2 reflected a dimension characterized by high boldness and low neophobia, which helps distinguish clusters, particularly separating individuals who are more adventurous from those who are more cautious. Notably, personality groups like "Angry Bird" showed slight tendencies to cluster together without strong separation across PC1 or PC2 or PC3, ultimately illuminating behavioral characteristics that may be more indicative of clustering than the predefined personality categories.
 
 Results:
-![image](https://github.com/user-attachments/assets/bb4035ab-128a-456d-847a-5bc046795538)
+![image](https://github.com/user-attachments/assets/e8ff10ce-63ef-4bb1-a234-e9e13bbe5900)
+
+![image](https://github.com/user-attachments/assets/81a016ea-dc48-42ee-85ca-7970979c315a)
+
+
 
