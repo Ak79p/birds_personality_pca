@@ -6,6 +6,7 @@
     <title>PCA Visualization</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script> <!-- Added d3.js for CSV loading -->
 </head>
 <body>
     <div class="black-background">
@@ -13,7 +14,7 @@
             <span class="close-btn" onclick="toggleMenu()">☰</span>
             <h2>PCA Plots</h2>
             <ul>
-                <li><a href="#" onclick="showPlot('plot1')">PCA Plot 1</a></li>
+                <li><a href="#" onclick="showPlot('plot1')">PCA Cluster Plot</a></li>
                 <li><a href="#" onclick="showPlot('plot2')">PCA Plot 2</a></li>
                 <li><a href="#" onclick="showPlot('plot3')">PCA Plot 3</a></li>
             </ul>
