@@ -38,7 +38,7 @@ The PCA visualization aims to showcase how different bird personalities cluster 
 3. Hover over data points in the plots to view corresponding bird personalities.
 
 ## Data Source
-The data for this project is stored in Data/pca_df.csv, which includes the following columns:
+The original data for this project is stored in Notebook folder while the pre-processed data is stored in Data/pca_df.csv, which includes the following columns:
 
 - PC1, PC2, PC3: Principal components from PCA analysis.
 - Personality: Different personality types of birds.
