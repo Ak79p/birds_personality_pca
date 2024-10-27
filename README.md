@@ -34,7 +34,7 @@ The PCA visualization aims to showcase how different bird personalities cluster 
    git clone https://github.com/Ak79p/birds_personality_pca.git
    cd birds_personality_pca
 
-Usage
+## Usage
 Open the side menu to select between different PCA plots.
 Use the checkbox to toggle grid and tick visibility.
 Hover over data points in the plots to view corresponding bird personalities.
